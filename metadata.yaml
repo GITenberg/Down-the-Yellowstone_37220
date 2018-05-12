@@ -1,0 +1,30 @@
+_repo: Down-the-Yellowstone_37220
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37220-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Freeman, Lewis R. (Lewis Ransome)
+    alias: Freeman, Lewis Ransome
+    birthdate: 1878
+    deathdate: 1960
+    gutenberg_agent_id: '36405'
+    url: http://www.gutenberg.org/2009/agents/36405
+    wikipedia: http://en.wikipedia.org/wiki/Lewis_R._Freeman
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2011-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37220'
+  lccn: '22019958'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F721'
+- !lcsh 'Yellowstone River'
+title: Down the Yellowstone
+url: http://www.gutenberg.org/ebooks/37220
