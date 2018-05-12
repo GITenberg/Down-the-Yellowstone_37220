@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36405
     wikipedia: http://en.wikipedia.org/wiki/Lewis_R._Freeman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37220#Down-the-Yellowstone
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2011-08-27'
 gutenberg_type: Text
